@@ -91,13 +91,33 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| — | — | — |
+| PEOPLE-01 | Phase 5 | Pending |
+| PEOPLE-02 | Phase 5 | Pending |
+| PEOPLE-03 | Phase 2 | Pending |
+| ITEMS-01 | Phase 6 | Pending |
+| ITEMS-02 | Phase 6 | Pending |
+| ITEMS-03 | Phase 6 | Pending |
+| ASSIGN-01 | Phase 7 | Pending |
+| ASSIGN-02 | Phase 3 | Pending |
+| ASSIGN-03 | Phase 7 | Pending |
+| CHARGE-01 | Phase 8 | Pending |
+| CHARGE-02 | Phase 8 | Pending |
+| CHARGE-03 | Phase 8 | Pending |
+| CHARGE-04 | Phase 3 | Pending |
+| SUMMARY-01 | Phase 9 | Pending |
+| SUMMARY-02 | Phase 3 | Pending |
+| SUMMARY-03 | Phase 9 | Pending |
+| SUMMARY-04 | Phase 9 | Pending |
+| UX-01 | Phase 10 | Pending |
+| UX-02 | Phase 10 | Pending |
+| UX-03 | Phase 10 | Pending |
+| UX-04 | Phase 10 | Pending |
 
 **Coverage:**
-- v1 requirements: 20 total
-- Mapped to phases: 0
-- Unmapped: 20
+- v1 requirements: 21 total (note: original count of 20 was a typo — there are 21 requirements across 6 categories)
+- Mapped to phases: 21
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-05-25*
-*Last updated: 2026-05-25 after initial definition*
+*Last updated: 2026-05-25 after roadmap creation*
