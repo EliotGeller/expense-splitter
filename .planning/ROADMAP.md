@@ -35,7 +35,10 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. Running `npm test` executes the Vitest suite and reports results
   3. Tailwind CSS classes render correctly in the browser
   4. Pushing to main triggers a successful Vercel/Netlify deployment
-**Plans**: TBD
+**Plans:** 2 plans
+Plans:
+- [ ] 01-01-PLAN.md — Scaffold Vite project, install deps, configure Tailwind + Vitest, create clean App component with smoke test
+- [ ] 01-02-PLAN.md — Create GitHub repo, deploy to Vercel, human-verify deployed app with Tailwind rendering
 
 ### Phase 2: Data Model
 **Goal**: All TypeScript types and interfaces for the bill domain are defined, and the UUID-based Person model is established so renaming a person never breaks their item assignments.
@@ -161,7 +164,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 →
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Project Scaffold | 0/TBD | Not started | - |
+| 1. Project Scaffold | 0/2 | Planning complete | - |
 | 2. Data Model | 0/TBD | Not started | - |
 | 3. Calculation Engine | 0/TBD | Not started | - |
 | 4. State Store | 0/TBD | Not started | - |
